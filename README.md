@@ -3,6 +3,22 @@ Greetings guys !
 I'm happy to have a such nice chance ! Thank you !
 ___________________________________________________
 
+WHAT WERE DONE (tested in Unity Editor):
+
+1. Levels
+2. Checkpoints
+3. Stars / Rating system
+4. Obstacles
+5. Surfaces
+6. Progress / Feedback
+7. HUD (speed & time)
+8. Pause Level - Resume Level
+9. Restart Level
+10. Web Server API
+11. History screen (Player scores sorted by reverse order)
+12. Car-bots AI
+___________________________________________________
+
 HOW TO PLAY on PC:
 
 1. AWSD or keyboard ARROWS - controls to drive car left, right, forward, backward
