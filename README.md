@@ -41,7 +41,8 @@ HOW TO CREATE NEW LEVEL:
 2. Open new scene and select `Level` game object.
 3. On `Level` game object you can change laps per level, ratings (seconds, stars) per lap, checkpoints and web-server.
 4. You can create/transform/move/delete different obstacles, surfaces and checkpoints just as you wish right in your new level scene.
-5. Do not forget to add all checkpoints in right order right into list of the `Level` game object.
+5. Do not forget to add all checkpoints in right order directly into list of the `Level` game object.
+6. Add as many car-bots AI as you need or do not add.
 
 ___________________________________________________
 
