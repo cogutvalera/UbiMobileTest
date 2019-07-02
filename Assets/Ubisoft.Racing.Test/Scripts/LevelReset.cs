@@ -12,9 +12,5 @@ namespace Ubisoft.Racing.Test
             // reload the scene
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
-
-        private void Update()
-        {
-        }
     }
 }

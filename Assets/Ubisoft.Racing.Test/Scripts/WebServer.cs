@@ -69,7 +69,8 @@ namespace Ubisoft.Racing.Test
                 else
                 {
                     List<PlayerScore> history = JsonConvert.DeserializeObject<List<PlayerScore>>(www.downloadHandler.text);
-                    callback?.Invoke(history);
+                    if (null != callback)
+                        callback.Invoke(history);
                 }
             }
         }
