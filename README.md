@@ -3,9 +3,15 @@ Greetings guys !
 I'm happy to have a such nice chance ! Thank you !
 ___________________________________________________
 
-AWSD or keyboard ARROWS - controls to drive car left, right, forward, backward
+HOW TO PLAY on PC:
 
-SPACE BAR button - handbrake
+1. AWSD or keyboard ARROWS - controls to drive car left, right, forward, backward
+2. SPACE BAR button - handbrake
+___________________________________________________
+HOW TO PLAY on Mobiles:
+
+1. Left & right icons for brake & acceleration accordingly
+2. Accelerometer for turning left or right
 ___________________________________________________
 
 In this game are 5 levels (Level_1, Level_2, Level_3, Level_4, Level_5).
