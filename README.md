@@ -46,10 +46,6 @@ HOW TO CREATE NEW LEVEL:
 
 ___________________________________________________
 
-SERVER is already LIVE :) Enjoy with your new records !
-I've uploaded server code on Amazon host. So anybody can play and try to make new record within all players !
-___________________________________________________
-
 Hope you will enjoy while playing !
 Best wishes ! Best regards !
 ___________________________________________________
